@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <img width="" height="300" src="https://github.com/muftisamiullah/muftisamiullah/raw/master/bio.gif">
+</p>
+
+
+
 <!--
 **Priccc0flop/Priccc0flop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
